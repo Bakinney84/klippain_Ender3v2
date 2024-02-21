@@ -1,6 +1,8 @@
 ******Work in progress*****
 -Working on configuration for Ender 3 v2 .cfg's
 
+Go to https://github.com/Frix-x/klippain
+
 # Klippain
 
 > Klippain - The pain-free recipe for (french)bread and butter Klipper configuration!
