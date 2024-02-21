@@ -1,3 +1,6 @@
+******Work in progress*****
+-Working on configuration for Ender 3 v2 .cfg's
+
 # Klippain
 
 > Klippain - The pain-free recipe for (french)bread and butter Klipper configuration!
